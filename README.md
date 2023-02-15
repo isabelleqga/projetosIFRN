@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://portal.cin.ufpe.br/wp-content/uploads/2020/07/Horizontal-Vermelho-Logotipo-CIn-UFPE.png" alt="logo_cin" width="400" height="auto" style="border-radius:20px;" />
-  <h2>
-    PROJETOS IFRN
-  </h2>
+  <img src="https://portal.ifrn.edu.br/pesquisa/pfrh/logomarcas/logo-ifrn-1/ifrn-1" alt="logo_IFRN" width="400" height="auto" style="border-radius:20px;" />
+  
   <h1>
-    Projetos desenvolvidos de 2017 a 2020 no curso de Informática do IFRN-Caicó
+    PROJETOS IFRN
   </h1> 
+  <h2>
+    Projetos desenvolvidos de 2017 a 2020 no curso de Informática do IFRN-Caicó
+  </h2>
 </div>
 
 ## :trophy: Componentes
