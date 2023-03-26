@@ -17,8 +17,8 @@
 - Pizzaria (2019)
   - Sistema de registro de pedidos e produtos de uma pizzaria
   - Desenvolvido na matéria Banco de Dados, professor Ari Oliveira
-  
- - Asma (2020)
+
+- Asma (2020)
   - Sistema de aluguel de motos
   - Desenvolvido na matéria Projeto de Software, professor Ari Oliveira
   
