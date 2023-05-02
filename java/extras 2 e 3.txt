@@ -1,0 +1,17 @@
+02.
+O synchronized basicamente “tranca” um método e faz com que 
+apenas uma thread por vez possa acessá-lo, evitando 
+erros e interferências. Esse modificador normalmente deve 
+ser usado em situações onde há diversas threads rodando e 
+trabalhando com os mesmos objetos/variáveis. Em outro caso, 
+ele não precisa ser usado e  pode apenas causar delays no 
+programa.
+
+03. 
+>> O método join() cria uma espera até que uma certa thread
+ acabe de rodar. Ele faz com que as threads que estão 
+ executadas parem até a que ele une (‘join’) seja completada.
+
+>> Já o método sleep() faz com que a thread que está
+ sendo executado pare por um tempo especifico,
+ sem depender de outras threads como na join().
