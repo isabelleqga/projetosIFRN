@@ -1,0 +1,8 @@
+ordem da paleta de cor: suave
+#0D1F26
+#568FA6
+#A69F8A
+#F2EFE4
+#F24C3D
+
+fonte das palavras: red rose
